@@ -1,10 +1,12 @@
 {
-  "name": "Coding_Challenge",
+  "name": "coding_challenge",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@capacitor/core": "1.4.0",
+    "@ionic/pwa-elements": "^1.4.1",
     "@ionic/react": "^4.11.8",
+    "@ionic/react-hooks": "0.0.6",
     "@ionic/react-router": "^4.11.8",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -47,5 +49,16 @@
   "devDependencies": {
     "@capacitor/cli": "1.4.0"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoleMarty/Coding_Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoleMarty/Coding_Challenge/issues"
+  },
+  "homepage": "https://github.com/NicoleMarty/Coding_Challenge#readme"
 }
