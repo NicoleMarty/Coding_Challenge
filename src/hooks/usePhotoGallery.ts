@@ -74,7 +74,7 @@ export function usePhotoGallery () {
         })
       )
     )
-  } // set() here??
+  }
 
   return {
     photos,
