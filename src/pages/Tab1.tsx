@@ -21,15 +21,15 @@ import './Tab1.css';
 
 const Tab1: React.FC = () => {
   return (
-    <IonPage>
+    <IonPage> <img src="/assets/home-gb.jpg" alt="" />
       <IonHeader>
-        <IonToolbar>
-          <IonTitle>Tab One</IonTitle>
+        <IonToolbar color='dark'>
+          <IonTitle>Trippy</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
-        <IonCard className="welcome-card">
-          <img src="/assets/shapes.svg" alt="" />
+      
+        <IonCard>
           <IonCardHeader>
             <IonCardSubtitle>Get Started</IonCardSubtitle>
             <IonCardTitle>Welcome to Ionic</IonCardTitle>

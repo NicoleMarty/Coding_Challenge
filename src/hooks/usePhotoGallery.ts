@@ -1,6 +1,3 @@
-/*import { isPlatform } from '@ionic/react';
-import { Capacitor} from "@capacitor/core";*/
-
 import { useState, useEffect } from 'react'
 import { useCamera } from '@ionic/react-hooks/camera'
 import { useFilesystem, base64FromPath } from '@ionic/react-hooks/filesystem'
