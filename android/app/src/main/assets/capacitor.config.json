@@ -1,8 +1,0 @@
-{
-  "appId": "io.ionic.starter",
-  "appName": "Coding_Challenge",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build",
-  "cordova": {}
-}
